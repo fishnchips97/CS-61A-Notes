@@ -12,3 +12,5 @@ from operator import add, mul
 
 print(add(add(6, mul(4,6)), mul(3,5)))
 # prints 45
+
+# demo of finding string information from large text file
